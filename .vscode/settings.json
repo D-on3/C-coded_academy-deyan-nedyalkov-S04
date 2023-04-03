@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "typeinfo": "c",
+        "prototypes.h": "c",
+        "DATE.C": "cpp",
+        "algorithm": "c",
+        "string.h": "c",
+        "database.h": "c",
+        "main.h": "c"
+    }
+}

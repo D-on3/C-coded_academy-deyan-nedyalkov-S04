@@ -1,0 +1,28 @@
+//Упражнение 12. Оператори за присвояване
+# include <stdio.h>
+int main() {
+    int nResult = 13; /* опитайте с други стойности */
+        int nResult = 13;
+    int nX = 4;
+    printf("Result = %d\n", nResult);
+    nResult += nX;
+    printf("Result += %d -> %d\n", nX, nResult);
+    nResult = 1;
+    nResult <<= nX;
+    printf("Result <<= %d -> %d\n", nX, nResult);
+    /* използвайте и други оператори за присвояване */
+    nResult = 5;
+    nResult *= nX;
+    printf("Result *= %d -> %d\n", nX, nResult);
+    nResult = 12;
+    nResult -= nX;
+    printf("Result -= %d -> %d\n", nX, nResult);
+    nResult = 9;
+    nResult &= nX;
+    printf("Result &= %d -> %d\n", nX, nResult);
+    nResult = 19;
+    nResult /= nX;
+    printf("Result /= %d -> %d\n", nX, nResult);
+
+    return 0;
+}

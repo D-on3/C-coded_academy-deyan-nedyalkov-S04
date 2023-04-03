@@ -1,0 +1,21 @@
+1,New,Name,1
+2,nekfo,novo,1
+3,novoto,dulgoime,1
+4,nekaffffff,pichhhhhh,1
+5,sekfi,tetakiva,1
+6,shtastliv,zelenchuk,1
+7,halapenios,bezbudeshte,1
+8,NEWSTUPf,NAME,1
+9,NOVOTO,IME,1
+10,some,dude,1
+11,nekyf,pi4,1
+
+
+
+char* ptr = strtok(str," ")
+
+name secondname2 540 40  3
+
+if(atoi(str)!= error){
+    maxmana = atoi(ptr)
+    }

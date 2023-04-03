@@ -1,0 +1,4 @@
+NAME    COUNTRY     SEX     AGE     POINTS
+Miro    BG          m   14  5
+John    italy       m   15  2
+mark    Mumbai      f   15  1
